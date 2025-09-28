@@ -1,5 +1,5 @@
 # 💫 About Me:
-**👋 Hi, I'm Samuel!**<br><br>-🔭 I'm currently working on building end-to-end ML projects, focusing on creating scalable data pipelines and deploying models using industry-standard tools.<br>-🌱 I'm currently learning advanced feature engineering, ensembling techniques, and optimization strategies to climb the ranks in Kaggle competitions.<br>-👯 I'm looking to collaborate on challenging Kaggle competitions to tackle complex datasets and learn new strategies from a team.<br>-💬 Ask me about training and fine-tuning YOLO models or taking a model from a notebook to an interactive Streamlit application.
+**👋 Hi, I'm Samuel!**<br><br>-🔭 I'm currently working on building end-to-end ML projects, focusing on creating scalable data pipelines and deploying models using industry-standard tools.<br>-🌱 I'm currently learning advanced feature engineering, ensembling techniques, and optimization strategies to climb the ranks in Kaggle competitions.<br>-👯 I'm looking to collaborate on challenging Kaggle competitions to tackle complex datasets and learn new strategies from a team.<br>
 
 
 ## 🌐 Socials:
